@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## HOLA SOY JUAN
 ### Acerca de mi
-**Soy un estudiante de la universidad de ingenieria y tecnologia(UTEC) cursando la carrera de ciencia de la computacion.**
+**Soy un estudiante de la universidad de ingenieria y tecnologia([utec](https://www.utec.edu.pe/))  cursando la carrera de ciencia de la computacion.**
 
 __Lenguajes aprendidos:__
 - Python
