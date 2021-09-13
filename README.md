@@ -13,6 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About me
-**I'm a student of computer science**
+## HOLA SOY JUAN
+### Acerca de mi
+**Soy un estudiante de la universidad de ingenieria y tecnologia(UTEC) cursando la carrera de ciencia de la computacion.**
+
+__Lenguajes aprendidos:__
+- Python
+- C++
+ 
+ ![mi universidad](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Campus_UTEC_Lima.png/275px-Campus_UTEC_Lima.png)
 
