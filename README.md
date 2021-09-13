@@ -1,4 +1,4 @@
-## HOLA SOY JUAN
+## HOLA 👋 SOY JUAN
 ### Acerca de mi
 **Soy un estudiante de la universidad de ingenieria y tecnologia([utec](https://www.utec.edu.pe/))  cursando la carrera de ciencia de la computacion.**
 
