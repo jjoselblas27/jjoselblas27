@@ -1,10 +1,23 @@
-## HOLA 👋 SOY JUAN
-### Acerca de mi
-**Soy un estudiante de la universidad de ingenieria y tecnologia([utec](https://www.utec.edu.pe/))  cursando la carrera de ciencia de la computacion.**
+## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  I'm juan
+### About me
 
-__Lenguajes aprendidos:__
+I am a computer science student interested in learning new technologies.
+
+**Languages I know:**
 - Python
 - C++
  
+ **Languages I want to learn:**
+ - HTML5
+ - CSS
+ - Javascript
+ - Haskell
+ 
+**tools**
+ - visual studio code
+ - Pycharm
+ - Clion
+
+
  ![mi universidad](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Campus_UTEC_Lima.png/275px-Campus_UTEC_Lima.png)
 
