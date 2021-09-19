@@ -8,10 +8,9 @@ I am a computer science student interested in learning new technologies.
 - C++
  
  **Languages I want to learn:**
- - HTML5
- - CSS
  - Javascript
  - Haskell
+ - elixir
  
 **tools**
  - visual studio code
