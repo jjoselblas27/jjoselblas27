@@ -3,20 +3,5 @@
 
 I am a computer science student interested in learning new technologies.
 
-**Languages I know:**
-- Python
-- C++
- 
- **Languages I want to learn:**
- - Javascript
- - Haskell
- - elixir
- 
-**tools**
- - visual studio code
- - Pycharm
- - Clion
-
-
  ![mi universidad](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Campus_UTEC_Lima.png/275px-Campus_UTEC_Lima.png)
 
