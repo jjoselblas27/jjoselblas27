@@ -36,14 +36,16 @@ Soy estudiante de **ciencia de la Computación** con un gran interés en el **an
 
 Aquí tienes lo que estoy escuchando actualmente en **Spotify**. ¡Escucha mis canciones favoritas mientras exploras mis proyectos!
 
-[![Spotify](https://i.scdn.co/image/ab67616d0000b2738e6b1ff17a6d597fdf84c8f5)]([https://open.spotify.com/user/tu_usuario_de_spotify?si=link_de_playlist_o_album](https://open.spotify.com/intl-es/album/38TJ5X61VQmV0jPkiE786Q?si=2gfk7B8LT4mLHatuThCfsQ))
+[![Escucha mi álbum favorito](https://i.scdn.co/image/ab67616d0000b2738e6b1ff17a6d597fdf84c8f5)](https://open.spotify.com/intl-es/album/38TJ5X61VQmV0jPkiE786Q?si=ZvYvM495Rpef07fMJas4TQ)
+
+O si prefieres escuchar directamente, [¡haz clic aquí para ver el álbum completo!](https://open.spotify.com/intl-es/album/38TJ5X61VQmV0jPkiE786Q?si=ZvYvM495Rpef07fMJas4TQ)
 
 ---
 
 ## 📫 Conéctate conmigo
 
-- [LinkedIn]([tu-enlace-de-linkedin](https://www.linkedin.com/in/juan-jose-leandro-blas-534333278/))
-- [Correo Electrónico](juan.leandro@utec.edu.pe)
+- linkedin: [juan Leandro](https://www.linkedin.com/in/juan-jose-leandro-blas-534333278/)
+- correo: [juan.leandro@utec.edu.pe](juan.leandro@utec.edu.pe)
 
 ---
 
