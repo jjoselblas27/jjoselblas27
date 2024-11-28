@@ -22,7 +22,7 @@ Soy estudiante de **ciencia de la Computación** con un gran interés en el **an
 
 - **Herramientas & Frameworks**:
   - **Power BI** para visualización de datos
-  - **TensorFlow** y **Keras** para proyectos de IA
+  - **pytorch** para proyectos de IA
   - **Pandas**, **NumPy** y **Matplotlib** para análisis de datos
   - **Scikit-learn** para machine learning
 
